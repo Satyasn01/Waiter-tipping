@@ -67,5 +67,6 @@ Your contributions make this project even better! If you have suggestions or imp
 
 Feel free to reach out for more information:
 
-- Email: satyarocket001@gmail.com
-- GitHub: https://github.com/satyasn01
+- Email: [satyarocket001@gmail.com](mailto:satyarocket001@gmail.com)
+- GitHub: [satyasn01](https://github.com/satyasn01)
+
